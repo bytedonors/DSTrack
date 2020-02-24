@@ -1,10 +1,10 @@
 <p>
-Taken from <a href="https://github.com/abhat222/Data-Science--Cheat-Sheet"><strong>Link to original GitHub page</strong></a>
+Link to <a href="https://www.youtube.com/watch?v=8Yl6Vv6wzVk&t=194s"><strong>Our Channel</strong></a>
 </p>
  
-# Data Science Cheatsheets
+# Data Science Informative Documents
 
-List of Data Science Cheatsheets :
+List of stuff related to Data Science:
 
 ## Table of Contents
 - [Artificial Intelligence](Artificial%20Intelligence/README.md)
